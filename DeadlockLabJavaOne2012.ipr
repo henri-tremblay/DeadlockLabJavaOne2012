@@ -195,7 +195,11 @@
   </component>
   <component name="ProjectCodeStyleSettingsManager">
     <option name="PER_PROJECT_SETTINGS">
-      <value />
+      <value>
+        <XML>
+          <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+        </XML>
+      </value>
     </option>
   </component>
   <component name="ProjectModuleManager">
@@ -218,7 +222,6 @@
   </component>
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/util" vcs="svn" />
   </component>
   <component name="libraryTable">
     <library name="Maven: junit:junit:4.10">
