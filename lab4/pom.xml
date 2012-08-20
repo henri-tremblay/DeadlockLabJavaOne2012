@@ -12,15 +12,4 @@
 
   <name>lab4</name>
 
-  <build>
-    <resources>
-      <resource>
-        <directory>src/main/java</directory>
-        <includes>
-          <include> **/*.ttf</include>
-        </includes>
-      </resource>
-    </resources>
-  </build>
-
 </project>
