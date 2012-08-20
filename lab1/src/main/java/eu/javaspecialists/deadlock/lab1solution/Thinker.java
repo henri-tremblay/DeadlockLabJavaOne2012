@@ -4,12 +4,14 @@ import java.util.concurrent.*;
 
 public class Thinker implements Callable<String> {
     private final int id;
-    private final Krasi left, right;
+    private final Krasi bigger, smaller;
 
     public Thinker(int id, Krasi left, Krasi right) {
         this.id = id;
-        this.left = left;
-        this.right = right;
+        this.bigger = left.compareTo(right) > 0 ? left : right;
+        this.smaller = right == bigger ? left : right;
+        System.out.println("bigger = " + bigger);
+        System.out.println("smaller = " + smaller);
     }
 
     public String call() throws Exception {
@@ -21,8 +23,8 @@ public class Thinker implements Callable<String> {
     }
 
     public void drink() {
-        synchronized (left) {
-            synchronized (right) {
+        synchronized (bigger) {
+            synchronized (smaller) {
                 System.out.printf("(%d) Drinking%n", id);
             }
         }
