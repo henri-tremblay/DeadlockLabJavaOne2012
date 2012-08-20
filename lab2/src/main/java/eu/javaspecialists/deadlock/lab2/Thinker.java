@@ -21,10 +21,16 @@ public class Thinker implements Callable<String> {
     }
 
     public void drink() {
-        synchronized (left) {
-            synchronized (right) {
+        left.lock();
+        try {
+            right.lock();
+            try {
                 System.out.printf("(%d) Drinking%n", id);
+            } finally {
+                right.unlock();
             }
+        } finally {
+            left.unlock();
         }
     }
 
