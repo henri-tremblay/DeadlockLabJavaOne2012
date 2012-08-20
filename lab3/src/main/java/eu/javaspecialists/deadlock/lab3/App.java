@@ -1,4 +1,4 @@
-package eu.javaspecialists.deadlock.lab1;
+package eu.javaspecialists.deadlock.lab3;
 
 import java.util.Set;
 import java.util.concurrent.ConcurrentSkipListSet;

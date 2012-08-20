@@ -1,5 +1,6 @@
-package eu.javaspecialists.deadlock.lab1;
+package eu.javaspecialists.deadlock.lab3;
 
+import eu.javaspecialists.deadlock.lab3.*;
 import org.junit.Test;
 
 
