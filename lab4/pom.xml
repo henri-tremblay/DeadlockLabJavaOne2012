@@ -51,7 +51,7 @@
 			</properties>
 
 			<build>
-				<defaultGoal>verify</defaultGoal>
+				<defaultGoal>compile</defaultGoal>
 				<plugins>
 					<plugin>
 						<groupId>org.codehaus.mojo</groupId>
@@ -61,7 +61,7 @@
 								<goals>
 									<goal>java</goal>
 								</goals>
-								<phase>verify</phase>
+								<phase>compile</phase>
 							</execution>
 						</executions>
 					</plugin>
@@ -69,5 +69,5 @@
 			</build>
 		</profile>
 	</profiles>
-	
+
 </project>
