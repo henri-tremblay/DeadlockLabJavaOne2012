@@ -90,7 +90,7 @@ public class DemoImages extends Component {
 
         URLClassLoader urlLoader =
                 (URLClassLoader) cmp.getClass().getClassLoader();
-        URL fileLoc = urlLoader.findResource("eu/javaspecialists/deadlock/lab3/ideas2/images/" + name);
+        URL fileLoc = urlLoader.findResource("eu/javaspecialists/deadlock/lab3/images/" + name);
         img = cmp.getToolkit().createImage(fileLoc);
 
         MediaTracker tracker = new MediaTracker(cmp);

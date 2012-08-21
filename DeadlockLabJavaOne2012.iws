@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2b4b9da-90a7-47cb-9ef3-e4a1a6a33036" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeadlockLabJavaOne2012.ipr" afterPath="$PROJECT_DIR$/DeadlockLabJavaOne2012.ipr" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeadlockLabJavaOne2012.iws" afterPath="$PROJECT_DIR$/DeadlockLabJavaOne2012.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/lab2.iml" afterPath="$PROJECT_DIR$/lab2/lab2.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab3/lab3.iml" afterPath="$PROJECT_DIR$/lab3/lab3.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/util/util.iml" afterPath="$PROJECT_DIR$/util/util.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab3/pom.xml" afterPath="$PROJECT_DIR$/lab3/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/Java2Demo.java" afterPath="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/Java2Demo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/java2d/DemoImages.java" afterPath="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/java2d/DemoImages.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/java2d/Surface.java" afterPath="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/java2d/Surface.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab4/lab4.iml" afterPath="$PROJECT_DIR$/lab4/lab4.iml" />
     </list>
     <ignored path="DeadlockLabJavaOne2012.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -64,27 +68,88 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Java2DemoTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab4/src/test/java/eu/javaspecialists/deadlock/lab4/Java2DemoTest.java">
+        <entry file="file://$PROJECT_DIR$/lab3/src/test/java/eu/javaspecialists/deadlock/lab3/Java2DemoTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="7" column="13" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Java2Demo.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab4/src/main/java/eu/javaspecialists/deadlock/lab4/Java2Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="13" selection-start="3595" selection-end="3595" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lab2.iml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lab2/lab2.iml">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab3/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab4/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab3/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="18" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeadlockLabJavaOne2012.iws" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DeadlockLabJavaOne2012.iws">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lab3.iml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab3/lab3.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeadlockLabJavaOne2012.ipr" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DeadlockLabJavaOne2012.ipr">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/labideas/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileCopier.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/labideas/src/main/java/eu/javaspecialists/deadlock/labideas/filelocking/FileCopier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="13" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="labideas.iml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/labideas/labideas.iml">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -105,22 +170,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/ideas/FileCopier.java" />
-        <option value="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/ideas/asdf.java" />
-        <option value="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/ideas/CompositeProcessor.java" />
-        <option value="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/ideas/WalkingCollection.java" />
-        <option value="$PROJECT_DIR$/lab3/src/test/java/eu/javaspecialists/deadlock/lab3/ideas/WalkingCollectionTest.java" />
-        <option value="$PROJECT_DIR$/lab4/src/main/java/eu/javaspecialists/deadlock/lab4/java2d/GlobalControls.java" />
-        <option value="$PROJECT_DIR$/lab4/src/main/java/eu/javaspecialists/deadlock/lab4/java2d/GlobalPanel.java" />
-        <option value="$PROJECT_DIR$/lab4/src/main/java/eu/javaspecialists/deadlock/lab4/java2d/DemoPanel.java" />
-        <option value="$PROJECT_DIR$/lab4/src/main/java/eu/javaspecialists/deadlock/lab4/java2d/Java2DemoApplet.java" />
-        <option value="$PROJECT_DIR$/lab4/src/main/java/eu/javaspecialists/deadlock/lab4/java2d/TextureChooser.java" />
-        <option value="$PROJECT_DIR$/lab4/src/main/java/eu/javaspecialists/deadlock/lab4/java2d/Tools.java" />
-        <option value="$PROJECT_DIR$/lab4/src/main/java/eu/javaspecialists/deadlock/lab4/java2d/RunWindow.java" />
-        <option value="$PROJECT_DIR$/lab4/src/main/java/eu/javaspecialists/deadlock/lab4/java2d/CloningFeature.java" />
-        <option value="$PROJECT_DIR$/lab4/src/main/java/eu/javaspecialists/deadlock/lab4/java2d/DemoGroup.java" />
-        <option value="$PROJECT_DIR$/lab4/pom.xml" />
-        <option value="$PROJECT_DIR$/lab4/src/test/java/eu/javaspecialists/deadlock/lab4/Java2DemoTest.java" />
+        <option value="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/ideas2/java2d/MemoryMonitor.java" />
+        <option value="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/ideas2/Java2Demo.java" />
+        <option value="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/ideas/TransactionManager.java" />
+        <option value="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/ideas/basic/App.java" />
+        <option value="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/ideas/walkingcollection/WalkingCollection.java" />
+        <option value="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/ideas/filelocking/FileCopier.java" />
+        <option value="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/ideas/webapp/TransactionManager.java" />
+        <option value="$PROJECT_DIR$/lab3/src/test/java/eu/javaspecialists/deadlock/lab3/basic/AppTest.java" />
+        <option value="$PROJECT_DIR$/lab3/src/test/java/eu/javaspecialists/deadlock/lab3/ideas/basic/AppTest.java" />
+        <option value="$PROJECT_DIR$/lab3/src/test/java/eu/javaspecialists/deadlock/lab3/ideas/walkingcollection/WalkingCollectionTest.java" />
+        <option value="$PROJECT_DIR$/lab3/src/test/java/eu/javaspecialists/deadlock/lab3/webapp/TransactionManagerTest.java" />
+        <option value="$PROJECT_DIR$/lab3/src/test/java/eu/javaspecialists/deadlock/lab3/ideas/webapp/TransactionManagerTest.java" />
+        <option value="$PROJECT_DIR$/lab3/src/test/java/eu/javaspecialists/deadlock/lab3/Java2DemoTest.java" />
+        <option value="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/java2d/Surface.java" />
+        <option value="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/Java2Demo.java" />
+        <option value="$PROJECT_DIR$/lab3/pom.xml" />
       </list>
     </option>
   </component>
@@ -150,6 +215,12 @@
           <option name="myItemId" value="" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
         <PATH_ELEMENT>
           <option name="myItemId" value="lab4" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
@@ -174,46 +245,8 @@
           <option name="myItemId" value="" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
-      </PATH>
-      <PATH>
         <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="lab2" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Dependencies" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="junit:junit:4.10" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependencyNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="lab2" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Dependencies" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="lab2" />
+          <option name="myItemId" value="lab3" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
       </PATH>
@@ -223,31 +256,7 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="lab2" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Lifecycle" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="lab1" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="lab1" />
+          <option name="myItemId" value="lab3" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
@@ -261,10 +270,9 @@
     <option name="jreName" value="1.7" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="744" />
     <option name="y" value="22" />
-    <option name="width" value="1436" />
-    <option name="height" value="878" />
+    <option name="width" value="1511" />
+    <option name="height" value="1430" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -325,10 +333,6 @@
               <option name="myItemId" value="DeadlockLabJavaOne2012" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -336,149 +340,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.7 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeadlockLabJavaOne2012" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.7 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeadlockLabJavaOne2012" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.7 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeadlockLabJavaOne2012" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.7 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="concurrent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeadlockLabJavaOne2012" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.7 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeadlockLabJavaOne2012" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.7 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="awt" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeadlockLabJavaOne2012" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeadlockLabJavaOne2012" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lab4" />
+              <option name="myItemId" value="labideas" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -489,68 +351,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="lab4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lab4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeadlockLabJavaOne2012" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lab4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lab4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeadlockLabJavaOne2012" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lab2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeadlockLabJavaOne2012" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lab1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -569,7 +369,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_directory_selection" value="$PROJECT_DIR$/lab4/src/main/java/eu/javaspecialists/deadlock/lab4" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/lab3/src/test/java/eu/javaspecialists/deadlock/lab3" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="OverrideImplement.combined" value="true" />
@@ -577,7 +377,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="preferences.fileTypes" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="project.structure.side.proportion" value="0.20000002" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -593,25 +393,29 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="eu.javaspecialists.deadlock.lab3" />
       <recent name="eu.javaspecialists.deadlock.lab2solution" />
       <recent name="eu.javaspecialists.deadlock.lab1solution" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lab3/src/main" />
+      <recent name="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/ideas2" />
       <recent name="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/ideas" />
       <recent name="$PROJECT_DIR$/lab1" />
       <recent name="$PROJECT_DIR$/lab2" />
-      <recent name="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution" />
-      <recent name="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab3" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="eu.javaspecialists.deadlock.util" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="eu.javaspecialists.deadlock.lab4" />
+      <recent name="eu.javaspecialists.deadlock.lab3.ideas" />
+      <recent name="eu.javaspecialists.deadlock.lab3.webapp" />
+      <recent name="eu.javaspecialists.deadlock.lab3.ideas.walkingcollection" />
+      <recent name="eu.javaspecialists.deadlock.lab3.basic" />
       <recent name="eu.javaspecialists.deadlock.lab3" />
-      <recent name="eu.javaspecialists.deadlock.util" />
-      <recent name="eu.javaspecialists.deadlock" />
-      <recent name="eu.javaspecialists.bla" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lab3/src/main/resources/eu/javaspecialists/deadlock/lab3/ideas/fonts" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.Java2DemoTest">
@@ -653,8 +457,8 @@
       <module name="lab3" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="eu.javaspecialists.deadlock.lab3.ideas" />
-      <option name="MAIN_CLASS_NAME" value="eu.javaspecialists.deadlock.lab3.ideas.WalkingCollectionTest" />
+      <option name="PACKAGE_NAME" value="eu.javaspecialists.deadlock.lab3.ideas.walkingcollection" />
+      <option name="MAIN_CLASS_NAME" value="eu.javaspecialists.deadlock.lab3.ideas.walkingcollection.WalkingCollectionTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -674,11 +478,11 @@
     <configuration default="false" name="Java2Demo" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
-          <option name="PATTERN" value="eu.javaspecialists.deadlock.lab4.*" />
+          <option name="PATTERN" value="eu.javaspecialists.deadlock.lab3.java2d.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="eu.javaspecialists.deadlock.lab4.Java2Demo" />
+      <option name="MAIN_CLASS_NAME" value="eu.javaspecialists.deadlock.lab3.Java2Demo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -687,7 +491,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="lab4" />
+      <module name="lab3" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -696,15 +500,15 @@
     <configuration default="false" name="Java2DemoTest.startJava2Demo" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
-          <option name="PATTERN" value="eu.javaspecialists.deadlock.lab4.*" />
+          <option name="PATTERN" value="eu.javaspecialists.deadlock.lab3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="lab4" />
+      <module name="lab3" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="eu.javaspecialists.deadlock.lab4" />
-      <option name="MAIN_CLASS_NAME" value="eu.javaspecialists.deadlock.lab4.Java2DemoTest" />
+      <option name="PACKAGE_NAME" value="eu.javaspecialists.deadlock.lab3" />
+      <option name="MAIN_CLASS_NAME" value="eu.javaspecialists.deadlock.lab3.Java2DemoTest" />
       <option name="METHOD_NAME" value="startJava2Demo" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
@@ -724,15 +528,15 @@
     <configuration default="false" name="Java2DemoTest" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
-          <option name="PATTERN" value="eu.javaspecialists.deadlock.lab4.*" />
+          <option name="PATTERN" value="eu.javaspecialists.deadlock.lab3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="lab4" />
+      <module name="lab3" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="eu.javaspecialists.deadlock.lab4" />
-      <option name="MAIN_CLASS_NAME" value="eu.javaspecialists.deadlock.lab4.Java2DemoTest" />
+      <option name="PACKAGE_NAME" value="eu.javaspecialists.deadlock.lab3" />
+      <option name="MAIN_CLASS_NAME" value="eu.javaspecialists.deadlock.lab3.Java2DemoTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -867,6 +671,11 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
   <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
@@ -917,30 +726,34 @@
       <created>1345493298545</created>
       <updated>1345493298545</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updated IDEA project files">
+      <created>1345493450874</created>
+      <updated>1345493450874</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="744" y="22" width="1436" height="878" extended-state="0" />
+    <frame x="0" y="22" width="1511" height="1430" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41482046" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32875773" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32696715" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15611511" sideWeight="0.48348746" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15221843" sideWeight="0.48357525" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19136691" sideWeight="0.48348746" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5165126" sideWeight="0.98486054" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35836178" sideWeight="0.48357525" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5164248" sideWeight="0.98486054" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32875773" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="EJB" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -985,7 +798,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Swing deadlock bug, with the little surprise with the benign deadlock." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated IDEA project files" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1004,103 +817,118 @@
     <MESSAGE value="Changed unit test to correctly check for deadlocks of threads started within that group of threads." />
     <MESSAGE value="Added Walking Collection which causes a deadlock with a single thread when we try to upgrade a read lock to a write lock." />
     <MESSAGE value="Added Swing deadlock bug, with the little surprise with the benign deadlock." />
+    <MESSAGE value="Updated IDEA project files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lab4/src/main/java/eu/javaspecialists/deadlock/lab4/java2d/GlobalPanel.java">
+    <entry file="file://$PROJECT_DIR$/lab4/src/test/java/eu/javaspecialists/deadlock/lab4/Java2DemoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="43" selection-start="2078" selection-end="2138" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab4/src/main/java/eu/javaspecialists/deadlock/lab4/java2d/Java2DemoApplet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="4" selection-start="3413" selection-end="3413" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab4/src/main/java/eu/javaspecialists/deadlock/lab4/java2d/TextureChooser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="174" column="10" selection-start="5916" selection-end="5916" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab4/src/main/java/eu/javaspecialists/deadlock/lab4/java2d/Tools.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="384" column="11" selection-start="11911" selection-end="11911" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab4/src/main/java/eu/javaspecialists/deadlock/lab4/fonts/A.ttf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="11" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab4/src/main/java/eu/javaspecialists/deadlock/lab4/java2d/DemoPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="0" selection-start="2530" selection-end="2530" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab4/src/main/java/eu/javaspecialists/deadlock/lab4/java2d/RunWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="4" selection-start="3285" selection-end="3285" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab4/src/main/java/eu/javaspecialists/deadlock/lab4/java2d/CloningFeature.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="25" selection-start="3224" selection-end="3224" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_06.jdk/Contents/Home/src.zip!/java/util/concurrent/Exchanger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="104" column="13" selection-start="2929" selection-end="2929" vertical-scroll-proportion="0.056047197">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab4/src/main/java/eu/javaspecialists/deadlock/lab4/java2d/DemoGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="97" column="69" selection-start="3587" selection-end="3587" vertical-scroll-proportion="0.058282208">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab4/src/main/java/eu/javaspecialists/deadlock/lab4/java2d/DemoFonts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="0" selection-start="2605" selection-end="3003" vertical-scroll-proportion="0.056047197">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab4/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="19" selection-start="678" selection-end="678" vertical-scroll-proportion="0.058282208">
+        <state line="7" column="13" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_06.jdk/Contents/Home/src.zip!/java/awt/Font.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="966" column="0" selection-start="38638" selection-end="38638" vertical-scroll-proportion="0.058282208">
+        <state line="951" column="25" selection-start="38178" selection-end="38178" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab4/src/test/java/eu/javaspecialists/deadlock/lab4/Java2DemoTest.java">
+    <entry file="file://$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/java2d/DemoGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="13" selection-start="2392" selection-end="2392" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/java2d/Surface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="100" column="0" selection-start="3748" selection-end="3748" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/Java2Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="13" selection-start="2392" selection-end="2392" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/labideas/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/labideas/labideas.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/labideas/src/main/java/eu/javaspecialists/deadlock/labideas/filelocking/FileCopier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab3/src/test/java/eu/javaspecialists/deadlock/lab3/Java2DemoTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="13" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab4/src/main/java/eu/javaspecialists/deadlock/lab4/Java2Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="13" selection-start="3595" selection-end="3595" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab2/lab2.iml">
+    <entry file="file://$PROJECT_DIR$/lab3/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/labideas/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab4/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab3/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="18" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeadlockLabJavaOne2012.ipr">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeadlockLabJavaOne2012.iws">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab3/lab3.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />

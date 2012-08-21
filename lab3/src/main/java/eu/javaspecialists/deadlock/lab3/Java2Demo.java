@@ -81,7 +81,6 @@ public class Java2Demo extends JPanel implements ItemListener, ActionListener {
             {"Clipping", "Areas", "ClipAnim", "Intersection", "Text"},
             {"Colors", "BullsEye", "ColorConvert", "Rotator3D"},
             {"Composite", "ACimages", "ACrules", "FadeAnim"},
-            //{"Fonts", "AttributedStr", "Highlighting", "Outline", "Tree"},
             {"Images", "DukeAnim", "ImageOps", "JPEGFlip", "WarpImage"},
             {"Lines", "Caps", "Dash", "Joins", "LineAnim"},
             {"Mix", "Balls", "BezierScroller", "Stars3D"},
@@ -114,8 +113,6 @@ public class Java2Demo extends JPanel implements ItemListener, ActionListener {
         progressLabel.setText("Loading images");
         new DemoImages();
         progressBar.setValue(progressBar.getValue() + 1);
-        progressLabel.setText("Loading fonts");
-        new DemoFonts();
         progressBar.setValue(progressBar.getValue() + 1);
         progressLabel.setText("Loading Intro");
         intro = new Intro();

@@ -28,6 +28,7 @@
     <file url="file://$PROJECT_DIR$/lab2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lab3" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lab4" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/labideas" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/util" charset="UTF-8" />
   </component>
   <component name="EntryPointsManager">
@@ -65,6 +66,7 @@
         <option value="$PROJECT_DIR$/lab3/pom.xml" />
         <option value="$PROJECT_DIR$/lab4/pom.xml" />
         <option value="$PROJECT_DIR$/util/pom.xml" />
+        <option value="$PROJECT_DIR$/labideas/pom.xml" />
       </list>
     </option>
   </component>
@@ -208,6 +210,7 @@
       <module fileurl="file://$PROJECT_DIR$/lab2/lab2.iml" filepath="$PROJECT_DIR$/lab2/lab2.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab3/lab3.iml" filepath="$PROJECT_DIR$/lab3/lab3.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab4/lab4.iml" filepath="$PROJECT_DIR$/lab4/lab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labideas/labideas.iml" filepath="$PROJECT_DIR$/labideas/labideas.iml" />
       <module fileurl="file://$PROJECT_DIR$/util/util.iml" filepath="$PROJECT_DIR$/util/util.iml" />
     </modules>
   </component>
@@ -224,6 +227,17 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
   <component name="libraryTable">
+    <library name="Maven: javax.servlet:servlet-api:2.5">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5-sources.jar!/" />
+      </SOURCES>
+    </library>
     <library name="Maven: junit:junit:4.10">
       <CLASSES>
         <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.10/junit-4.10.jar!/" />

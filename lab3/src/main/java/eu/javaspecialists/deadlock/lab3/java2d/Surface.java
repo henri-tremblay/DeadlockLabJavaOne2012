@@ -99,21 +99,13 @@ public abstract class Surface extends JPanel implements Printable {
         }
     }
 
-
     protected Image getImage(String name) {
         return DemoImages.getImage(name, this);
     }
 
-
-    protected Font getFont(String name) {
-        return DemoFonts.getFont(name);
-    }
-
-
     public int getImageType() {
         return imageType;
     }
-
 
     public void setImageType(int imgType) {
         if (imgType == 0) {
