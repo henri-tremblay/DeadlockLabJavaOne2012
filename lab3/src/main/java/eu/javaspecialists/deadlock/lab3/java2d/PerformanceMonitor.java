@@ -53,6 +53,7 @@ import java.awt.image.*;
  * of frames per second on animated demos.  Up to four surfaces fit
  * in the display area.
  */
+@SuppressWarnings("serial")
 public class PerformanceMonitor extends JPanel {
 
     public Surface surf;
@@ -75,6 +76,7 @@ public class PerformanceMonitor extends JPanel {
         public Surface() {
             setBackground(Color.black);
             addMouseListener(new MouseAdapter() {
+                @Override
                 public void mouseClicked(MouseEvent e) {
                     if (thread == null) start();
                     else stop();
@@ -82,20 +84,24 @@ public class PerformanceMonitor extends JPanel {
             });
         }
 
+        @Override
         public Dimension getMinimumSize() {
             return getPreferredSize();
         }
 
+        @Override
         public Dimension getMaximumSize() {
             return getPreferredSize();
         }
 
+        @Override
         public Dimension getPreferredSize() {
             int textH = getFontMetrics(font).getHeight();
             return new Dimension(135, 2 + textH * 4);
         }
 
 
+        @Override
         public void paint(Graphics g) {
             if (bimg != null) {
                 g.drawImage(bimg, 0, 0, this);
@@ -134,6 +140,7 @@ public class PerformanceMonitor extends JPanel {
         }
 
 
+        @Override
         public void run() {
 
             Thread me = Thread.currentThread();

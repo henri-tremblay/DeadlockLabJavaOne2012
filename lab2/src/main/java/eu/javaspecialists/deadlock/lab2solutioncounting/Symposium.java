@@ -29,6 +29,7 @@ public class Symposium {
         }
     }
 
+    @SuppressWarnings("boxing")
     public void run() throws InterruptedException {
         // do this after we created the symposium, so that we do not
         // let the reference to the Symposium escape.
