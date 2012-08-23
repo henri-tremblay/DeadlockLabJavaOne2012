@@ -6,7 +6,12 @@ import org.junit.*;
 import static org.junit.Assert.*;
 
 /**
- * Unit test for simple App.
+ * Tests whether the Symposium ends in a deadlock.  You might need to run it a
+ * few times on your machine before the deadlock surfaces.
+ * <p/>
+ * DO NOT CHANGE THIS CODE!
+ *
+ * @author Heinz Kabutz
  */
 public class JavaSpecialistsSymposium2012Crete {
     @Test

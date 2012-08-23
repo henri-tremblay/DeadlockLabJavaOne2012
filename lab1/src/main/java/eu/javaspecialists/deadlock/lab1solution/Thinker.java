@@ -2,6 +2,16 @@ package eu.javaspecialists.deadlock.lab1solution;
 
 import java.util.concurrent.*;
 
+/**
+ * Our philosopher always first locks left, then right.  If all of the thinkers
+ * sit in a circle and their threads call "drink()" at the same time, then they
+ * will end up with a deadlock.
+ *
+ * In our solution, we decide in the constructor which the larger and smaller
+ * locks are, rather than doing this every time the drink() method is called.
+ *
+ * @author Heinz Kabutz
+ */
 public class Thinker implements Callable<String> {
     private final int id;
     private final Krasi bigger, smaller;

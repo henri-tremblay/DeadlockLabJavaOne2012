@@ -1,4 +1,4 @@
-package eu.javaspecialists.deadlock.lab1;
+package eu.javaspecialists.deadlock.lab2solutioncounting;
 
 import eu.javaspecialists.deadlock.util.*;
 import org.junit.*;
@@ -6,8 +6,7 @@ import org.junit.*;
 import static org.junit.Assert.*;
 
 /**
- * Tests whether the Symposium ends in a deadlock.  You might need to run it a
- * few times on your machine before the deadlock surfaces.
+ * Tests whether the Symposium ends in a deadlock.  Hopefully it does not.
  * <p/>
  * DO NOT CHANGE THIS CODE!
  *

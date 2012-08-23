@@ -1,39 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2b4b9da-90a7-47cb-9ef3-e4a1a6a33036" name="Default" comment="Updated IDEA project files">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/bld.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/boat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/box.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/boxwave.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/clone.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/clouds.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/cupanim.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/duke.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/duke.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/duke.running.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/dukeplug.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/fight.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/globe.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/java-logo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/java_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/jumptojavastrip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/loop.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/looping.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/magnify.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/painting.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/print.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/remove.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/snooze.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/star7.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/start.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/start2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/stop.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/stop2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/surfing.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/thumbsup.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4/images/tip.gif" />
+    <list default="true" id="e2b4b9da-90a7-47cb-9ef3-e4a1a6a33036" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting/Krasi.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting/Symposium.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting/Thinker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab2/src/test/java/eu/javaspecialists/deadlock/lab2solutioncounting/JavaSpecialistsSymposium2012Crete.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab3/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/readme.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeadlockLabJavaOne2012.iws" afterPath="$PROJECT_DIR$/DeadlockLabJavaOne2012.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/readme.txt" afterPath="$PROJECT_DIR$/lab1/readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1/Krasi.java" afterPath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1/Krasi.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1/Symposium.java" afterPath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1/Symposium.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1/Thinker.java" afterPath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1/Thinker.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1solution/Krasi.java" afterPath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1solution/Krasi.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1solution/Symposium.java" afterPath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1solution/Symposium.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1solution/Thinker.java" afterPath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1solution/Thinker.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/src/test/java/eu/javaspecialists/deadlock/lab1/JavaSpecialistsSymposium2012Crete.java" afterPath="$PROJECT_DIR$/lab1/src/test/java/eu/javaspecialists/deadlock/lab1/JavaSpecialistsSymposium2012Crete.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/src/test/java/eu/javaspecialists/deadlock/lab1solution/JavaSpecialistsSymposium2012Crete.java" afterPath="$PROJECT_DIR$/lab1/src/test/java/eu/javaspecialists/deadlock/lab1solution/JavaSpecialistsSymposium2012Crete.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/pom.xml" afterPath="$PROJECT_DIR$/lab2/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/readme.txt" afterPath="$PROJECT_DIR$/lab2/readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Krasi.java" afterPath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Krasi.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Main.java" afterPath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Symposium.java" afterPath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Symposium.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Thinker.java" afterPath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Thinker.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Krasi.java" afterPath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Krasi.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Symposium.java" afterPath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Symposium.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Thinker.java" afterPath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Thinker.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/src/test/java/eu/javaspecialists/deadlock/lab2/JavaSpecialistsSymposium2012Crete.java" afterPath="$PROJECT_DIR$/lab2/src/test/java/eu/javaspecialists/deadlock/lab2/JavaSpecialistsSymposium2012Crete.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/src/test/java/eu/javaspecialists/deadlock/lab2solution/JavaSpecialistsSymposium2012Crete.java" afterPath="$PROJECT_DIR$/lab2/src/test/java/eu/javaspecialists/deadlock/lab2solution/JavaSpecialistsSymposium2012Crete.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab3/lab3.iml" afterPath="$PROJECT_DIR$/lab3/lab3.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab4/lab4.iml" afterPath="$PROJECT_DIR$/lab4/lab4.iml" />
     </list>
     <ignored path="DeadlockLabJavaOne2012.iws" />
@@ -92,91 +89,93 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Java2DemoTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab3/src/test/java/eu/javaspecialists/deadlock/lab3/Java2DemoTest.java">
+      <file leaf-file-name="Symposium.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Symposium.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="13" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0">
+            <state line="14" column="13" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab3/.gitignore">
+      <file leaf-file-name="Symposium.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Symposium.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="14" column="13" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab4/pom.xml">
+      <file leaf-file-name="Thinker.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Thinker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="37" column="24" selection-start="1047" selection-end="1047" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab3/pom.xml">
+      <file leaf-file-name="JavaSpecialistsSymposium2012Crete.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab2/src/test/java/eu/javaspecialists/deadlock/lab2solutioncounting/JavaSpecialistsSymposium2012Crete.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="18" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
+            <state line="14" column="13" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab2/readme.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DeadlockLabJavaOne2012.iws" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DeadlockLabJavaOne2012.iws">
+      <file leaf-file-name="readme.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab3/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="15" column="0" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lab3.iml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab3/lab3.iml">
+      <file leaf-file-name="readme.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab4/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="240" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DeadlockLabJavaOne2012.ipr" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DeadlockLabJavaOne2012.ipr">
+      <file leaf-file-name="Symposium.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting/Symposium.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="14" column="13" selection-start="415" selection-end="415" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/labideas/pom.xml">
+      <file leaf-file-name="Thinker.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting/Thinker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="17" column="13" selection-start="569" selection-end="569" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Java2Demo.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lab4/src/main/java/eu/javaspecialists/deadlock/lab4/Java2Demo.java">
+      <file leaf-file-name="Krasi.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting/Krasi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="13" selection-start="3595" selection-end="3595" vertical-scroll-proportion="0.23047858">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DemoImages.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab4/src/main/java/eu/javaspecialists/deadlock/lab4/java2d/DemoImages.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="53" selection-start="3509" selection-end="3509" vertical-scroll-proportion="0.0">
+            <state line="16" column="13" selection-start="512" selection-end="512" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -195,22 +194,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/ideas2/Java2Demo.java" />
-        <option value="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/ideas/TransactionManager.java" />
-        <option value="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/ideas/basic/App.java" />
-        <option value="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/ideas/walkingcollection/WalkingCollection.java" />
-        <option value="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/ideas/filelocking/FileCopier.java" />
-        <option value="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/ideas/webapp/TransactionManager.java" />
-        <option value="$PROJECT_DIR$/lab3/src/test/java/eu/javaspecialists/deadlock/lab3/basic/AppTest.java" />
-        <option value="$PROJECT_DIR$/lab3/src/test/java/eu/javaspecialists/deadlock/lab3/ideas/basic/AppTest.java" />
-        <option value="$PROJECT_DIR$/lab3/src/test/java/eu/javaspecialists/deadlock/lab3/ideas/walkingcollection/WalkingCollectionTest.java" />
-        <option value="$PROJECT_DIR$/lab3/src/test/java/eu/javaspecialists/deadlock/lab3/webapp/TransactionManagerTest.java" />
-        <option value="$PROJECT_DIR$/lab3/src/test/java/eu/javaspecialists/deadlock/lab3/ideas/webapp/TransactionManagerTest.java" />
-        <option value="$PROJECT_DIR$/lab3/src/test/java/eu/javaspecialists/deadlock/lab3/Java2DemoTest.java" />
-        <option value="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/java2d/Surface.java" />
-        <option value="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/Java2Demo.java" />
-        <option value="$PROJECT_DIR$/lab3/pom.xml" />
-        <option value="$PROJECT_DIR$/lab4/src/main/java/eu/javaspecialists/deadlock/lab4/java2d/DemoImages.java" />
+        <option value="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1/Symposium.java" />
+        <option value="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1solution/Symposium.java" />
+        <option value="$PROJECT_DIR$/lab1/src/test/java/eu/javaspecialists/deadlock/lab1/JavaSpecialistsSymposium2012Crete.java" />
+        <option value="$PROJECT_DIR$/lab1/src/test/java/eu/javaspecialists/deadlock/lab1solution/JavaSpecialistsSymposium2012Crete.java" />
+        <option value="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Symposium.java" />
+        <option value="$PROJECT_DIR$/lab2/src/test/java/eu/javaspecialists/deadlock/lab2/JavaSpecialistsSymposium2012Crete.java" />
+        <option value="$PROJECT_DIR$/lab2/src/test/java/eu/javaspecialists/deadlock/lab2solution/JavaSpecialistsSymposium2012Crete.java" />
+        <option value="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting/lab2solution/Symposium.java" />
+        <option value="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting/Krasi.java" />
+        <option value="$PROJECT_DIR$/lab2/src/test/java/eu/javaspecialists/deadlock/lab2solutioncounting/JavaSpecialistsSymposium2012Crete.java" />
+        <option value="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting/Thinker.java" />
+        <option value="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Thinker.java" />
+        <option value="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting/Symposium.java" />
+        <option value="$PROJECT_DIR$/lab2/readme.txt" />
+        <option value="$PROJECT_DIR$/lab3/readme.txt" />
+        <option value="$PROJECT_DIR$/lab4/readme.txt" />
       </list>
     </option>
   </component>
@@ -265,39 +264,16 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
         </PATH_ELEMENT>
       </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="lab3" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="lab3" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Lifecycle" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
-        </PATH_ELEMENT>
-      </PATH>
     </treeState>
   </component>
   <component name="MavenRunner">
     <option name="jreName" value="1.7" />
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="34" />
     <option name="y" value="22" />
-    <option name="width" value="1511" />
-    <option name="height" value="1430" />
+    <option name="width" value="1518" />
+    <option name="height" value="1177" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -305,6 +281,33 @@
         <expanded-state>
           <State>
             <id />
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Error handling</id>
+          </State>
+          <State>
+            <id>Java language level issues</id>
+          </State>
+          <State>
+            <id>Java language level migration aids</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+          <State>
+            <id>Probable bugs</id>
+          </State>
+          <State>
+            <id>Resource management issues</id>
           </State>
         </expanded-state>
         <selected-state>
@@ -359,180 +362,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeadlockLabJavaOne2012" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="labideas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeadlockLabJavaOne2012" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="labideas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeadlockLabJavaOne2012" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="labideas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeadlockLabJavaOne2012" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lab4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeadlockLabJavaOne2012" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lab4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeadlockLabJavaOne2012" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lab4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeadlockLabJavaOne2012" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lab4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lab4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeadlockLabJavaOne2012" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lab3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeadlockLabJavaOne2012" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lab3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeadlockLabJavaOne2012" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lab3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeadlockLabJavaOne2012" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lab3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope">
@@ -549,22 +378,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Project" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="157" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="418" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="OverrideImplement.combined" value="true" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="159" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="420" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="157" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="418" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="162" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="957" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="957" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="162" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="159" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="424" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1218" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1218" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="424" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="420" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
@@ -580,7 +409,7 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.lastSelected" value="editing.templates" />
     <property name="project.structure.side.proportion" value="0.20000002" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="options.searchVisible" value="true" />
@@ -588,26 +417,21 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="eu.javaspecialists.deadlock.lab2solutioncounting" />
+      <recent name="eu.javaspecialists.deadlock.lab1" />
       <recent name="eu.javaspecialists.deadlock.lab3" />
       <recent name="eu.javaspecialists.deadlock.lab2solution" />
       <recent name="eu.javaspecialists.deadlock.lab1solution" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lab4" />
+      <recent name="$PROJECT_DIR$/lab3" />
+      <recent name="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting" />
       <recent name="$PROJECT_DIR$/lab3/src/main" />
       <recent name="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/ideas2" />
-      <recent name="$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/ideas" />
-      <recent name="$PROJECT_DIR$/lab1" />
-      <recent name="$PROJECT_DIR$/lab2" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="eu.javaspecialists.deadlock.util" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="eu.javaspecialists.deadlock.lab3" />
-      <recent name="eu.javaspecialists.deadlock.lab3.ideas" />
-      <recent name="eu.javaspecialists.deadlock.lab3.webapp" />
-      <recent name="eu.javaspecialists.deadlock.lab3.ideas.walkingcollection" />
-      <recent name="eu.javaspecialists.deadlock.lab3.basic" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/lab4/src/main/resources/eu/javaspecialists/deadlock/lab4" />
@@ -615,92 +439,15 @@
       <recent name="$PROJECT_DIR$/lab3/src/main/resources/eu/javaspecialists/deadlock/lab3/ideas" />
       <recent name="$PROJECT_DIR$/lab3/src/main/resources/eu/javaspecialists/deadlock/lab3/ideas/fonts" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="eu.javaspecialists.deadlock.lab2solutioncounting" />
+      <recent name="eu.javaspecialists.deadlock.lab3" />
+      <recent name="eu.javaspecialists.deadlock.lab3.ideas" />
+      <recent name="eu.javaspecialists.deadlock.lab3.webapp" />
+      <recent name="eu.javaspecialists.deadlock.lab3.ideas.walkingcollection" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Java2Demo">
-    <configuration default="false" name="JavaSpecialistsSymposium2012Crete.runSymposium" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="eu.javaspecialists.deadlock.lab2solution.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="lab2" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="eu.javaspecialists.deadlock.lab2solution" />
-      <option name="MAIN_CLASS_NAME" value="eu.javaspecialists.deadlock.lab2solution.JavaSpecialistsSymposium2012Crete" />
-      <option name="METHOD_NAME" value="runSymposium" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="WalkingCollectionTest" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="eu.javaspecialists.deadlock.lab3.ideas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="lab3" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="eu.javaspecialists.deadlock.lab3.ideas.walkingcollection" />
-      <option name="MAIN_CLASS_NAME" value="eu.javaspecialists.deadlock.lab3.ideas.walkingcollection.WalkingCollectionTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Java2DemoTest.startJava2Demo" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="eu.javaspecialists.deadlock.lab3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="lab3" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="eu.javaspecialists.deadlock.lab3" />
-      <option name="MAIN_CLASS_NAME" value="eu.javaspecialists.deadlock.lab3.Java2DemoTest" />
-      <option name="METHOD_NAME" value="startJava2Demo" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.JavaSpecialistsSymposium2012Crete.runSymposium">
     <configuration default="false" name="Java2DemoTest" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
@@ -729,14 +476,42 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Java2Demo" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="JavaSpecialistsSymposium2012Crete" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
-          <option name="PATTERN" value="eu.javaspecialists.deadlock.lab4.*" />
+          <option name="PATTERN" value="eu.javaspecialists.deadlock.lab1solution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="eu.javaspecialists.deadlock.lab4.Java2Demo" />
+      <module name="lab1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="eu.javaspecialists.deadlock.lab1solution" />
+      <option name="MAIN_CLASS_NAME" value="eu.javaspecialists.deadlock.lab1solution.JavaSpecialistsSymposium2012Crete" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Java2Demo" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="eu.javaspecialists.deadlock.lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="eu.javaspecialists.deadlock.lab3.Java2Demo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -745,8 +520,58 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="lab4" />
+      <module name="lab3" />
       <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="eu.javaspecialists.deadlock.lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="eu.javaspecialists.deadlock.lab2.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="lab2" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="JavaSpecialistsSymposium2012Crete.runSymposium" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="eu.javaspecialists.deadlock.lab2solutioncounting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="lab2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="eu.javaspecialists.deadlock.lab2solutioncounting" />
+      <option name="MAIN_CLASS_NAME" value="eu.javaspecialists.deadlock.lab2solutioncounting.JavaSpecialistsSymposium2012Crete" />
+      <option name="METHOD_NAME" value="runSymposium" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
@@ -857,11 +682,11 @@
       </method>
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.JavaSpecialistsSymposium2012Crete.runSymposium" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.WalkingCollectionTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.Java2DemoTest.startJava2Demo" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.Java2DemoTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Java2Demo" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.Java2DemoTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.JavaSpecialistsSymposium2012Crete" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Java2Demo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.JavaSpecialistsSymposium2012Crete.runSymposium" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -932,28 +757,32 @@
       <created>1345547923762</created>
       <updated>1345547923762</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Changed lab1 and lab2 unit tests to create a ThreadGroup that can then be checked for whether any of its threads have deadlocked.">
+      <created>1345549824430</created>
+      <updated>1345549824430</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1511" height="1430" extended-state="0" />
+    <frame x="34" y="22" width="1518" height="1177" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41482046" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41477272" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925898" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29581332" sideWeight="0.81553787" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32696715" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15221843" sideWeight="0.670741" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1521739" sideWeight="0.749053" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35836178" sideWeight="0.670741" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5164248" sideWeight="0.98486054" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27581522" sideWeight="0.749053" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25094697" sideWeight="0.9993206" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1000,7 +829,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated IDEA project files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added comments to labs 1 &amp; 2, plus readme.txt files that explained what &#10;needed to be done in each of the labs." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1020,119 +849,123 @@
     <MESSAGE value="Added Walking Collection which causes a deadlock with a single thread when we try to upgrade a read lock to a write lock." />
     <MESSAGE value="Added Swing deadlock bug, with the little surprise with the benign deadlock." />
     <MESSAGE value="Updated IDEA project files" />
+    <MESSAGE value="Changed lab1 and lab2 unit tests to create a ThreadGroup that can then be checked for whether any of its threads have deadlocked." />
+    <MESSAGE value="Added comments to labs 1 &amp; 2, plus readme.txt files that explained what &#10;needed to be done in each of the labs." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/java2d/DemoGroup.java">
+    <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Krasi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="13" selection-start="2392" selection-end="2392" vertical-scroll-proportion="0.0">
+        <state line="16" column="13" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/java2d/Surface.java">
+    <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="0" selection-start="3748" selection-end="3748" vertical-scroll-proportion="0.0">
+        <state line="11" column="13" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/Java2Demo.java">
+    <entry file="file://$PROJECT_DIR$/lab2/src/test/java/eu/javaspecialists/deadlock/lab2/JavaSpecialistsSymposium2012Crete.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="13" selection-start="2392" selection-end="2392" vertical-scroll-proportion="0.0">
+        <state line="15" column="13" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/labideas/.gitignore">
+    <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Thinker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="25" column="13" selection-start="683" selection-end="683" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/labideas/labideas.iml">
+    <entry file="file://$PROJECT_DIR$/lab2/src/test/java/eu/javaspecialists/deadlock/lab2solution/JavaSpecialistsSymposium2012Crete.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="14" column="13" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/labideas/src/main/java/eu/javaspecialists/deadlock/labideas/filelocking/FileCopier.java">
+    <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Krasi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0">
+        <state line="16" column="13" selection-start="504" selection-end="504" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab3/src/test/java/eu/javaspecialists/deadlock/lab3/Java2DemoTest.java">
+    <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Thinker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0">
+        <state line="37" column="24" selection-start="1047" selection-end="1047" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab3/.gitignore">
+    <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Symposium.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="14" column="13" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab4/pom.xml">
+    <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Symposium.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="14" column="13" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeadlockLabJavaOne2012.ipr">
+    <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting/Symposium.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="14" column="13" selection-start="415" selection-end="415" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeadlockLabJavaOne2012.iws">
+    <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting/Krasi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="16" column="13" selection-start="512" selection-end="512" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab3/lab3.iml">
+    <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting/Thinker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="17" column="13" selection-start="569" selection-end="569" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/labideas/pom.xml">
+    <entry file="file://$PROJECT_DIR$/lab2/src/test/java/eu/javaspecialists/deadlock/lab2solutioncounting/JavaSpecialistsSymposium2012Crete.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="14" column="13" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab2/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab3/pom.xml">
+    <entry file="file://$PROJECT_DIR$/lab3/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="18" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
+        <state line="15" column="0" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab4/src/main/java/eu/javaspecialists/deadlock/lab4/java2d/DemoImages.java">
+    <entry file="file://$PROJECT_DIR$/lab4/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="53" selection-start="3509" selection-end="3509" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab4/src/main/java/eu/javaspecialists/deadlock/lab4/Java2Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="13" selection-start="3595" selection-end="3595" vertical-scroll-proportion="0.23047858">
+        <state line="0" column="0" selection-start="0" selection-end="240" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
