@@ -2,36 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2b4b9da-90a7-47cb-9ef3-e4a1a6a33036" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting/Krasi.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting/Symposium.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting/Thinker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab2/src/test/java/eu/javaspecialists/deadlock/lab2solutioncounting/JavaSpecialistsSymposium2012Crete.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab3/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab4/readme.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeadlockLabJavaOne2012.iws" afterPath="$PROJECT_DIR$/DeadlockLabJavaOne2012.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/readme.txt" afterPath="$PROJECT_DIR$/lab1/readme.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1/Krasi.java" afterPath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1/Krasi.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1/Symposium.java" afterPath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1/Symposium.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1/Thinker.java" afterPath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1/Thinker.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1solution/Krasi.java" afterPath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1solution/Krasi.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1solution/Symposium.java" afterPath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1solution/Symposium.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1solution/Thinker.java" afterPath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1solution/Thinker.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/src/test/java/eu/javaspecialists/deadlock/lab1/JavaSpecialistsSymposium2012Crete.java" afterPath="$PROJECT_DIR$/lab1/src/test/java/eu/javaspecialists/deadlock/lab1/JavaSpecialistsSymposium2012Crete.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/src/test/java/eu/javaspecialists/deadlock/lab1solution/JavaSpecialistsSymposium2012Crete.java" afterPath="$PROJECT_DIR$/lab1/src/test/java/eu/javaspecialists/deadlock/lab1solution/JavaSpecialistsSymposium2012Crete.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/pom.xml" afterPath="$PROJECT_DIR$/lab2/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/readme.txt" afterPath="$PROJECT_DIR$/lab2/readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/lab1.iml" afterPath="$PROJECT_DIR$/lab1/lab1.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1/Main.java" afterPath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1solution/Main.java" afterPath="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1solution/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/lab2.iml" afterPath="$PROJECT_DIR$/lab2/lab2.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Krasi.java" afterPath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Krasi.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Main.java" afterPath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Symposium.java" afterPath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Symposium.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Thinker.java" afterPath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Thinker.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Krasi.java" afterPath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Krasi.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Symposium.java" afterPath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Symposium.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Thinker.java" afterPath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Thinker.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/src/test/java/eu/javaspecialists/deadlock/lab2/JavaSpecialistsSymposium2012Crete.java" afterPath="$PROJECT_DIR$/lab2/src/test/java/eu/javaspecialists/deadlock/lab2/JavaSpecialistsSymposium2012Crete.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/src/test/java/eu/javaspecialists/deadlock/lab2solution/JavaSpecialistsSymposium2012Crete.java" afterPath="$PROJECT_DIR$/lab2/src/test/java/eu/javaspecialists/deadlock/lab2solution/JavaSpecialistsSymposium2012Crete.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Main.java" afterPath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting/Krasi.java" afterPath="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting/Krasi.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab3/lab3.iml" afterPath="$PROJECT_DIR$/lab3/lab3.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab4/lab4.iml" afterPath="$PROJECT_DIR$/lab4/lab4.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/labideas/labideas.iml" afterPath="$PROJECT_DIR$/labideas/labideas.iml" />
     </list>
     <ignored path="DeadlockLabJavaOne2012.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -89,6 +71,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="0" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="17" selection-start="204" selection-end="244" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Symposium.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Symposium.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,57 +98,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Symposium.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Symposium.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="13" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Thinker.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Thinker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="24" selection-start="1047" selection-end="1047" vertical-scroll-proportion="0.0">
+            <state line="17" column="13" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JavaSpecialistsSymposium2012Crete.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab2/src/test/java/eu/javaspecialists/deadlock/lab2solutioncounting/JavaSpecialistsSymposium2012Crete.java">
+      <file leaf-file-name="Krasi.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting/Krasi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="13" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readme.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab2/readme.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readme.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab3/readme.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readme.txt" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lab4/readme.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="240" vertical-scroll-proportion="0.0">
+            <state line="17" column="13" selection-start="540" selection-end="540" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -166,16 +128,34 @@
       <file leaf-file-name="Thinker.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting/Thinker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="13" selection-start="569" selection-end="569" vertical-scroll-proportion="0.0">
+            <state line="14" column="2" selection-start="527" selection-end="527" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Krasi.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting/Krasi.java">
+      <file leaf-file-name="Java2Demo.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/Java2Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="13" selection-start="512" selection-end="512" vertical-scroll-proportion="0.0">
+            <state line="61" column="13" selection-start="2392" selection-end="2392" vertical-scroll-proportion="0.29320988">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1solution/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="0" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="0" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -194,15 +174,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1/Symposium.java" />
-        <option value="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1solution/Symposium.java" />
-        <option value="$PROJECT_DIR$/lab1/src/test/java/eu/javaspecialists/deadlock/lab1/JavaSpecialistsSymposium2012Crete.java" />
-        <option value="$PROJECT_DIR$/lab1/src/test/java/eu/javaspecialists/deadlock/lab1solution/JavaSpecialistsSymposium2012Crete.java" />
-        <option value="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Symposium.java" />
         <option value="$PROJECT_DIR$/lab2/src/test/java/eu/javaspecialists/deadlock/lab2/JavaSpecialistsSymposium2012Crete.java" />
         <option value="$PROJECT_DIR$/lab2/src/test/java/eu/javaspecialists/deadlock/lab2solution/JavaSpecialistsSymposium2012Crete.java" />
         <option value="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting/lab2solution/Symposium.java" />
-        <option value="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting/Krasi.java" />
         <option value="$PROJECT_DIR$/lab2/src/test/java/eu/javaspecialists/deadlock/lab2solutioncounting/JavaSpecialistsSymposium2012Crete.java" />
         <option value="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting/Thinker.java" />
         <option value="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Thinker.java" />
@@ -210,6 +184,12 @@
         <option value="$PROJECT_DIR$/lab2/readme.txt" />
         <option value="$PROJECT_DIR$/lab3/readme.txt" />
         <option value="$PROJECT_DIR$/lab4/readme.txt" />
+        <option value="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Krasi.java" />
+        <option value="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Main.java" />
+        <option value="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Main.java" />
+        <option value="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1solution/Main.java" />
+        <option value="$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1/Main.java" />
+        <option value="$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting/Krasi.java" />
       </list>
     </option>
   </component>
@@ -229,40 +209,6 @@
           <option name="myItemId" value="" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="util" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="lab4" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="lab4" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Lifecycle" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
-        </PATH_ELEMENT>
       </PATH>
     </treeState>
   </component>
@@ -270,8 +216,8 @@
     <option name="jreName" value="1.7" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="34" />
-    <option name="y" value="22" />
+    <option name="x" value="852" />
+    <option name="y" value="258" />
     <option name="width" value="1518" />
     <option name="height" value="1177" />
   </component>
@@ -344,12 +290,12 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
           <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeadlockLabJavaOne2012" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -364,12 +310,12 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
+      <pane id="PackagesPane">
+        <subPane>
           <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DeadlockLabJavaOne2012" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -379,15 +325,15 @@
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Project" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="418" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="OverrideImplement.combined" value="true" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="420" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="418" />
-    <property name="MemberChooser.sorted" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="418" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="424" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1218" />
@@ -401,19 +347,19 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="Downloaded.Files.Path" value="$PROJECT_DIR$/lib" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
-    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="Downloaded.Files.Path" value="$PROJECT_DIR$/lib" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/lab3/src/test/java/eu/javaspecialists/deadlock/lab3" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="options.lastSelected" value="editing.templates" />
     <property name="project.structure.side.proportion" value="0.20000002" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -761,31 +707,35 @@
       <created>1345549824430</created>
       <updated>1345549824430</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added comments to labs 1 &amp; 2, plus readme.txt files that explained what &#10;needed to be done in each of the labs.">
+      <created>1345734916903</created>
+      <updated>1345734916903</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="34" y="22" width="1518" height="1177" extended-state="0" />
+    <frame x="852" y="258" width="1518" height="1177" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41477272" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29581332" sideWeight="0.81553787" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32696715" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1521739" sideWeight="0.749053" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15421195" sideWeight="0.749053" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27581522" sideWeight="0.749053" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25094697" sideWeight="0.9993206" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27513587" sideWeight="0.749053" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25094697" sideWeight="0.9993206" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41477272" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32696715" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="EJB" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -856,23 +806,25 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lab1/src/test/java/eu/javaspecialists/deadlock/lab1solution/JavaSpecialistsSymposium2012Crete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="13" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Krasi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="13" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="16" column="0" selection-start="483" selection-end="483" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#483#510#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Main.java">
+    <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Symposium.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="13" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab2/src/test/java/eu/javaspecialists/deadlock/lab2/JavaSpecialistsSymposium2012Crete.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="13" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0">
+        <state line="14" column="13" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -884,23 +836,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab2/src/test/java/eu/javaspecialists/deadlock/lab2solution/JavaSpecialistsSymposium2012Crete.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="13" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Krasi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="13" selection-start="504" selection-end="504" vertical-scroll-proportion="0.0">
+        <state line="17" column="13" selection-start="532" selection-end="532" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Thinker.java">
+    <entry file="file://$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1solution/Krasi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="24" selection-start="1047" selection-end="1047" vertical-scroll-proportion="0.0">
+        <state line="14" column="13" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="17" selection-start="204" selection-end="244" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1solution/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab1/src/main/java/eu/javaspecialists/deadlock/lab1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -912,9 +885,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2/Symposium.java">
+    <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solution/Thinker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="13" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0">
+        <state line="17" column="13" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting/Krasi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="13" selection-start="540" selection-end="540" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -926,46 +906,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting/Krasi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="13" selection-start="512" selection-end="512" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab2/src/main/java/eu/javaspecialists/deadlock/lab2solutioncounting/Thinker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="13" selection-start="569" selection-end="569" vertical-scroll-proportion="0.0">
+        <state line="14" column="2" selection-start="527" selection-end="527" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab2/src/test/java/eu/javaspecialists/deadlock/lab2solutioncounting/JavaSpecialistsSymposium2012Crete.java">
+    <entry file="file://$PROJECT_DIR$/lab3/src/main/java/eu/javaspecialists/deadlock/lab3/Java2Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="13" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab2/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab3/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab4/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="240" vertical-scroll-proportion="0.0">
+        <state line="61" column="13" selection-start="2392" selection-end="2392" vertical-scroll-proportion="0.29320988">
           <folding />
         </state>
       </provider>

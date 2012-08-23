@@ -6,7 +6,7 @@ package eu.javaspecialists.deadlock.lab1;
  * <p/>
  * DO NOT CHANGE THIS CODE!
  *
- * @author Heinz Kabutz
+ * @author Henri Tremblay, Heinz Kabutz
  */
 public class Main {
     public static void main(String[] args) throws InterruptedException {
