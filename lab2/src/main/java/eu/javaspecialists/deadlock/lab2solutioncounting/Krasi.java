@@ -1,4 +1,4 @@
-package eu.javaspecialists.deadlock.lab2solution;
+package eu.javaspecialists.deadlock.lab2solutioncounting;
 
 import java.util.concurrent.locks.*;
 

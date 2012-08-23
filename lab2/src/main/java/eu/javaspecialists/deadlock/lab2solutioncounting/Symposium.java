@@ -1,4 +1,4 @@
-package eu.javaspecialists.deadlock.lab1solution;
+package eu.javaspecialists.deadlock.lab2solutioncounting;
 
 import java.util.concurrent.*;
 
@@ -7,7 +7,7 @@ import java.util.concurrent.*;
  * between them.  We then run them in a cached thread pool.  Unfortunately when
  * all the Thinker instances try to drink at the same time, they cause a
  * deadlock.
- *
+ * <p/>
  * DO NOT CHANGE THIS CODE!
  *
  * @author Heinz Kabutz
@@ -47,5 +47,10 @@ public class Symposium {
             }
         }
         exec.shutdown();
+
+        for (int i = 0; i < thinkers.length; i++) {
+            System.out.printf("thinker[%d] = %,3d%n", i,
+                    thinkers[i].getRetry());
+        }
     }
 }

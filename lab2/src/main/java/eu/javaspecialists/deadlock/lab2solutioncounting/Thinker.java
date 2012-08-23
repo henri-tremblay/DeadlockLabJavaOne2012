@@ -1,4 +1,4 @@
-package eu.javaspecialists.deadlock.lab2solution;
+package eu.javaspecialists.deadlock.lab2solutioncounting;
 
 import java.util.concurrent.*;
 
@@ -18,6 +18,7 @@ import java.util.concurrent.*;
 public class Thinker implements Callable<String> {
     private final int id;
     private final Krasi left, right;
+    private volatile int retry;
 
     public Thinker(int id, Krasi left, Krasi right) {
         this.id = id;
@@ -50,7 +51,12 @@ public class Thinker implements Callable<String> {
             }
             // Possibly add a short random sleep to avoid a livelock, but only
             // do this after you have unlocked both locks.
+            retry++;
         }
+    }
+
+    public int getRetry() {
+        return retry;
     }
 
     public void think() {

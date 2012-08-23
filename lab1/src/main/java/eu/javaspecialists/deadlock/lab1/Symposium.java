@@ -2,6 +2,16 @@ package eu.javaspecialists.deadlock.lab1;
 
 import java.util.concurrent.*;
 
+/**
+ * At the symposium, we create a bunch of thinkers and place cups of wine
+ * between them.  We then run them in a cached thread pool.  Unfortunately when
+ * all the Thinker instances try to drink at the same time, they cause a
+ * deadlock.
+ *
+ * DO NOT CHANGE THIS CODE!
+ *
+ * @author Heinz Kabutz
+ */
 public class Symposium {
     private final Krasi[] cups;
     private final Thinker[] thinkers;

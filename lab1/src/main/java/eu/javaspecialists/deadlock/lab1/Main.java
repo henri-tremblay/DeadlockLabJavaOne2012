@@ -1,8 +1,7 @@
-package eu.javaspecialists.deadlock.lab2;
+package eu.javaspecialists.deadlock.lab1;
 
 /**
- * Launcher to test whether the symposium ends in a deadlock.  You might need
- * to
+ * Launcher to test whether the symposium ends in a deadlock.  You might need to
  * run it a few times on your machine before the deadlock surfaces.
  * <p/>
  * DO NOT CHANGE THIS CODE!
