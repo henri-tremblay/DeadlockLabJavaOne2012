@@ -2,6 +2,9 @@ The purpose of this lab is to solve a more difficult resource deadlock.  Your
 boss wrote this code and is particularly proud of it.  Unfortunately the system
 jams up after using it for a relatively short while.
 
+0. To run the code you can either use the run.bat file or mvn -Prun. To compile
+   you can use mvn install.
+
 1. Run the code and try to figure out what you need to do to cause the deadlock.
    Get a stack trace of all your threads and see whether Java automatically
    finds this issue (it won't).

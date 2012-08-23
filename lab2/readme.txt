@@ -7,6 +7,9 @@ locks, we now use the ReentrantLock.tryLock() method.  The aim is again to
 avoid the deadlock.  This time the deadlock is between threads calling the
 Lock.lock() method, rather than synchronized.
 
+0. To run the code you can either use the run.bat file or mvn -Prun. To compile
+   you can use mvn install.
+
 1. Run the code and verify that you see a deadlock by capturing a stack trace.
    Depending on your machine, you might need a few runs to see the issue.
 

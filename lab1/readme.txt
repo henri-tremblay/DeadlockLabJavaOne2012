@@ -4,6 +4,9 @@ thirst.  Each of them first grabs the left and then the right cup.  If they all
 grab the right cup at the same time, we will have some unhappy philosophers
 caught in limbo.
 
+0. To run the code you can either use the run.bat file or mvn -Prun. To compile
+   you can use mvn install.
+
 1. Run the code and verify that you see a deadlock by capturing a stack trace.
    Depending on your machine, you might need a few runs to see the issue.
 
