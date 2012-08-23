@@ -19,6 +19,7 @@ public class JavaSpecialistsSymposium2012Crete {
         try {
             tester.checkThatCodeDoesNotDeadlock(
                     new Runnable() {
+                        @Override
                         public void run() {
                             Symposium symposium = new Symposium(5);
                             try {

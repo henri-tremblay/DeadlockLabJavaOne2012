@@ -14,5 +14,7 @@ import java.util.concurrent.locks.*;
  *
  * @author Heinz Kabutz
  */
+@SuppressWarnings("serial")
 public class Krasi extends ReentrantLock {
+    // DO NOT CHANGE THIS CODE!
 }

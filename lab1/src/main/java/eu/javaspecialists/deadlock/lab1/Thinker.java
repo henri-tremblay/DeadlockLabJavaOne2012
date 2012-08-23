@@ -23,6 +23,7 @@ public class Thinker implements Callable<String> {
         this.right = right;
     }
 
+    @Override
     public String call() throws Exception {
         for (int i = 0; i < 1000; i++) {
             drink();
@@ -31,6 +32,7 @@ public class Thinker implements Callable<String> {
         return "Java is fun";
     }
 
+    @SuppressWarnings("boxing")
     public void drink() {
         synchronized (left) {
             synchronized (right) {
@@ -39,6 +41,7 @@ public class Thinker implements Callable<String> {
         }
     }
 
+    @SuppressWarnings("boxing")
     public void think() {
         System.out.printf("(%d) Thinking%n", id);
     }
