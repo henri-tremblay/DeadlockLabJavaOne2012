@@ -40,7 +40,7 @@ public class Symposium {
             results.submit(thinker);
         }
         System.out.println("Waiting for results");
-        for (Thinker thinker : thinkers) {
+        for (@SuppressWarnings("unused") Thinker thinker : thinkers) {
             try {
                 System.out.println(results.take().get());
             } catch (ExecutionException e) {
