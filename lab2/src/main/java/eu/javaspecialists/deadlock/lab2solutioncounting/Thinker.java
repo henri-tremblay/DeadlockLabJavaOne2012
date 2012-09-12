@@ -1,6 +1,7 @@
 package eu.javaspecialists.deadlock.lab2solutioncounting;
 
 import java.util.concurrent.*;
+import java.util.concurrent.atomic.*;
 
 /**
  * Our philosopher always first locks left, then right.  If all of the thinkers
@@ -18,7 +19,7 @@ import java.util.concurrent.*;
 public class Thinker implements Callable<String> {
     private final int id;
     private final Krasi left, right;
-    private volatile int retry;
+    private final AtomicLong retry = new AtomicLong();
 
     public Thinker(int id, Krasi left, Krasi right) {
         this.id = id;
@@ -53,12 +54,12 @@ public class Thinker implements Callable<String> {
             }
             // Possibly add a short random sleep to avoid a livelock, but only
             // do this after you have unlocked both locks.
-            retry++;
+            retry.incrementAndGet();
         }
     }
 
     public int getRetry() {
-        return retry;
+        return retry.intValue();
     }
 
     @SuppressWarnings("boxing")

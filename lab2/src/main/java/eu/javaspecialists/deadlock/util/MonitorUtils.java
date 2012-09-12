@@ -4,6 +4,10 @@ import sun.misc.*;
 
 import java.lang.reflect.*;
 
+/**
+ * See The Java Specialists' Newsletter Issue 194 - "trySynchronize"
+ * http://www.javaspecialists.eu/archive/Issue194.html
+ */
 public class MonitorUtils {
   private static Unsafe unsafe = getUnsafe();
 
