@@ -25,12 +25,12 @@ import java.util.concurrent.*;
  */
 public class Thinker implements Callable<String> {
     private final int id;
-    private final Krasi left, right;
+    private final Krasi right, left;
 
-    public Thinker(int id, Krasi left, Krasi right) {
+    public Thinker(int id, Krasi right, Krasi left) {
         this.id = id;
-        this.left = left;
         this.right = right;
+        this.left = left;
     }
 
     @Override
@@ -44,16 +44,16 @@ public class Thinker implements Callable<String> {
 
     @SuppressWarnings("boxing")
     public void drink() {
-        left.lock();
+        right.lock();
         try {
-            right.lock();
+            left.lock();
             try {
                 System.out.printf("(%d) Drinking%n", id);
             } finally {
-                right.unlock();
+                left.unlock();
             }
         } finally {
-            left.unlock();
+            right.unlock();
         }
     }
 

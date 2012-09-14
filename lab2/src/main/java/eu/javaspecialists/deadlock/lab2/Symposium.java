@@ -23,9 +23,9 @@ public class Symposium {
             cups[i] = new Krasi();
         }
         for (int i = 0; i < delegates; i++) {
-            Krasi left = cups[i];
-            Krasi right = cups[(i + 1) % delegates];
-            thinkers[i] = new Thinker(i, left, right);
+            Krasi right = cups[i];
+            Krasi left = cups[(i + 1) % delegates];
+            thinkers[i] = new Thinker(i, right, left);
         }
     }
 
