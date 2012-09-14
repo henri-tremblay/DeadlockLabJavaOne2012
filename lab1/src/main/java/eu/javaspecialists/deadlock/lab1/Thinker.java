@@ -6,7 +6,7 @@ import java.util.concurrent.*;
  * Our philosopher always first locks left, then right.  If all of the thinkers
  * sit in a circle and their threads call "drink()" at the same time, then they
  * will end up with a deadlock.
- *
+ * <p/>
  * Instead of locking first on left and then on right, change the code to lock
  * on the bigger Krasi first.  This will avoid the deadlock, as we will always
  * lock in the same order.
@@ -15,9 +15,9 @@ import java.util.concurrent.*;
  */
 public class Thinker implements Callable<String> {
     private final int id;
-    private final Krasi left, right;
+    private final Krasi right, left;
 
-    public Thinker(int id, Krasi left, Krasi right) {
+    public Thinker(int id, Krasi right, Krasi left) {
         this.id = id;
         this.left = left;
         this.right = right;
@@ -34,8 +34,8 @@ public class Thinker implements Callable<String> {
 
     @SuppressWarnings("boxing")
     public void drink() {
-        synchronized (left) {
-            synchronized (right) {
+        synchronized (right) {
+            synchronized (left) {
                 System.out.printf("(%d) Drinking%n", id);
             }
         }

@@ -16,7 +16,7 @@ public class Thinker implements Callable<String> {
     private final int id;
     private final Krasi bigger, smaller;
 
-    public Thinker(int id, Krasi left, Krasi right) {
+    public Thinker(int id, Krasi right, Krasi left) {
         this.id = id;
         this.bigger = left.compareTo(right) > 0 ? left : right;
         this.smaller = right == bigger ? left : right;
